@@ -67,7 +67,7 @@
         current: 0
       }
     },
-    created() {
+    beforeMount() {
       this.setThemeColor();
       this.slideInterval = setInterval(this.changeSlide, 5000);
     },

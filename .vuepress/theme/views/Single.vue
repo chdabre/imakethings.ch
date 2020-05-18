@@ -57,7 +57,7 @@
     components: {
       ArrowLeftIcon,
     },
-    created() {
+    beforeMount() {
       this.setThemeColor();
     },
     methods: {
