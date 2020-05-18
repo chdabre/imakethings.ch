@@ -41,4 +41,5 @@ fields:
     label: Description
   label: Aside Images
 pages:
+- projects/jim-cbasp.md
 - projects/photo-booth.md
