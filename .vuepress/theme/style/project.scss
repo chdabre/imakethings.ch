@@ -1,7 +1,7 @@
 @import "variables";
 
 .container {
-  margin: 5vh 1rem 0 1rem;
+  margin: 5vh auto 0 auto;
 
   @media screen and (min-width: 576px) {
     margin: 10vh auto 0 auto;
@@ -16,6 +16,7 @@
 
 .content {
   flex: 1;
+  width: 100%;
   .tags {
     margin-top: 1rem;
     flex-wrap: wrap;
@@ -50,7 +51,7 @@
     }
   }
 
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 980px) {
     display: none;
   }
 }
@@ -64,7 +65,7 @@
     width: 100%;
   }
 
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 980px) {
     display: block;
   }
 }

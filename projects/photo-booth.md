@@ -8,7 +8,7 @@ tags:
 - Python
 - Vue.js
 - Woodworking
-color: "#AC4D1D"
+color: "#D0622B"
 image: "/v1589825238/imakethings/Photobox_Wedding_bnp7ny.png"
 side_images:
 - url: "/v1589825259/imakethings/PhotoboxThumbnail_octghf.jpg"
