@@ -12,8 +12,8 @@ sections:
 - type: document
   path: index.md
   label: Index
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: imakethings
+public_path: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
