@@ -27,7 +27,6 @@ The users simply need to press a button and they are automatically guided throug
 
 Using thermal paper makes operating the photo booth very inexpensive, which means it can be left unattended for the entire night.
 
-  
 The portable photo booth is powered by a raspberry pi which runs a python-based [backend](https://github.com/chdabre/photobox-backend) software and a browser with a web-based [frontend](https://github.com/chdabre/photobox-frontend) written in Vue.js.
 
 In the top compartment, there is a Nikon DSLR and two battery-powered flashes for perfect illumination.
