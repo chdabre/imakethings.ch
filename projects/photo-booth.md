@@ -29,6 +29,6 @@ Using thermal paper makes operating the photo booth very inexpensive, which mean
 
 The portable photo booth is powered by a raspberry pi which runs a python-based [backend](https://github.com/chdabre/photobox-backend) software and a browser with a web-based [frontend](https://github.com/chdabre/photobox-frontend) written in Vue.js.
 
-In the top compartment, there is a Nikon DSLR and two battery-powered flashes for perfect illumination.
+In the top compartment, there is a Nikon DSLR and two battery-powered flashes for perfect illumination. 
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/Hpzlkna8hzI](https://www.youtube.com/embed/Hpzlkna8hzI "https://www.youtube.com/embed/Hpzlkna8hzI")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
