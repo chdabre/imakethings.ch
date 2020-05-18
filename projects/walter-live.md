@@ -16,7 +16,7 @@ side_images:
 ---
 Walter LIVE is a party game adaptation of the Swiss card game "Der wahre Walter".
 
-It is a web-based multiscreen game inspired by Jackbox games like _Quiplash._ To play, you simply visit the games [website](walter.imakethings.ch) on a laptop or tablet and each player logs in with their own smartphone. You don't need to install anything.
+It is a web-based multiscreen game inspired by Jackbox games like _Quiplash._ To play, you simply visit the games' [website](walter.imakethings.ch) on a laptop or tablet and each player logs in with their own smartphone. You don't need to install anything.
 
 The technology behind the system is powered by a node.js based backend hosted on Heroku, and a vue.js based frontend for both the host UI and the player UI.
 
