@@ -8,7 +8,13 @@ tags:
 - Flutter
 color: "#B39F9F"
 image: "/v1589829694/imakethings/mockup_mkcdfy.jpg"
-side_images: []
+side_images:
+- url: "/v1589829694/imakethings/mockup_mkcdfy.jpg"
+  description: ''
+- url: "/v1589830306/imakethings/screens_aj7g4l.png"
+  description: conversational UI flow
+- url: "/v1589830289/imakethings/logos_btei6q.png"
+  description: different logo designs
 
 ---
 About 5 percent of Europeans suffer from depression, and for one in three of them, their depression turns chronic.
