@@ -32,7 +32,6 @@ fields:
   label: Image
 - type: field_group_list
   name: side_images
-  label: side_images
   fields:
   - type: file
     name: url
@@ -40,3 +39,4 @@ fields:
   - type: text
     name: description
     label: Description
+  label: Aside Images
