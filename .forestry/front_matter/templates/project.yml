@@ -1,0 +1,42 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: index_title
+  label: Index short title
+  config:
+    required: true
+- type: text
+  name: year
+  label: year
+  config:
+    required: true
+- type: list
+  name: tags
+  label: Tags
+  config:
+    use_select: false
+- type: text
+  name: color
+  label: Color
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+- type: field_group_list
+  name: side_images
+  fields:
+  - type: file
+    name: url
+    label: URL
+  - type: text
+    name: description
+    label: Description
+  label: Aside Images
