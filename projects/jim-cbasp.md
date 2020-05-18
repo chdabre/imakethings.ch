@@ -1,12 +1,12 @@
 ---
 title: Jim CBASP
-index_title: a mental health companion.
+index_title: a mental health app.
 year: "2020"
 tags:
 - School Project
 - UX Design
 - Flutter
-color: "#9FB3B3"
+color: "#B39F9F"
 image: "/v1589829694/imakethings/mockup_mkcdfy.jpg"
 side_images: []
 
