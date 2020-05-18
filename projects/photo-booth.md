@@ -1,6 +1,6 @@
 ---
 title: photo booth
-index_title: a photo booth
+index_title: a photo booth.
 year: 2017/2018
 tags:
 - Personal Project
