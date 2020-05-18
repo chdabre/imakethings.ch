@@ -31,4 +31,4 @@ The portable photo booth is powered by a raspberry pi which runs a python-based 
 
 In the top compartment, there is a Nikon DSLR and two battery-powered flashes for perfect illumination.
 
-@\[youtube\](Hpzlkna8hzI)
+@[youtube](Hpzlkna8hzI)
