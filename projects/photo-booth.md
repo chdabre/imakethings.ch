@@ -19,7 +19,7 @@ side_images:
   description: capture button
 
 ---
-For my sisters' wedding in 2019, i wanted to create an opportunity for the guests to take group pictures and have something to take home with them.
+For my sisters' wedding in 2019, I wanted to create an opportunity for the guests to take group pictures and have something to take home with them.
 
 I came up with this compact photo booth. It was developed in a user-centered process, and is designed to be easy to use both for the operator and the end user.
 
