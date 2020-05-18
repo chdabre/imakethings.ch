@@ -9,7 +9,7 @@ tags:
 - Vue.js
 - Woodworking
 color: "#AC4D1D"
-image: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto/v1589825238/imakethings/Photobox_Wedding_bnp7ny.png
+image: "/v1589825238/imakethings/Photobox_Wedding_bnp7ny.png"
 side_images:
 - url: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto/v1589825259/imakethings/PhotoboxThumbnail_octghf.jpg
   description: ''
