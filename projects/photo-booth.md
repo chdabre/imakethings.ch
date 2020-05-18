@@ -11,11 +11,11 @@ tags:
 color: "#AC4D1D"
 image: "/v1589825238/imakethings/Photobox_Wedding_bnp7ny.png"
 side_images:
-- url: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto/v1589825259/imakethings/PhotoboxThumbnail_octghf.jpg
+- url: "/v1589825259/imakethings/PhotoboxThumbnail_octghf.jpg"
   description: ''
-- url: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto/v1589825330/imakethings/P3310126_phyf6x.jpg
+- url: "/v1589825330/imakethings/P3310126_phyf6x.jpg"
   description: electronics compartment with printer, raspberry pi, power supply, screeen
-- url: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto/v1589825406/imakethings/P3310136_xls087.jpg
+- url: "/v1589825406/imakethings/P3310136_xls087.jpg"
   description: capture button
 
 ---
