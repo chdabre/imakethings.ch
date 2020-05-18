@@ -40,3 +40,5 @@ fields:
     name: description
     label: Description
   label: Aside Images
+pages:
+- projects/photo-booth.md
