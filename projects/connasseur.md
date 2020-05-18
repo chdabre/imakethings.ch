@@ -6,7 +6,7 @@ tags:
 - Firebase
 - Vue.js
 - Hackathon
-color: "#F2C94C"
+color: "#F9CE3D"
 image: "/v1589834799/imakethings/Bildschirmfoto_2020-05-18_um_22.46.35_zgjpbl.png"
 side_images:
 - url: "/v1589834828/imakethings/CFAE0368-8835-42BD-ACD1-D203208C2A73_1_105_c_inosw7.jpg"
