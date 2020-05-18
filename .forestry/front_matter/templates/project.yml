@@ -17,11 +17,10 @@ fields:
   label: year
   config:
     required: true
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: Tags
-  config:
-    use_select: false
 - name: color
   type: color
   label: Color
