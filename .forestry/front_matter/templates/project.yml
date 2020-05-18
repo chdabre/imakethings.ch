@@ -1,0 +1,32 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: index_title
+  label: index_title
+- type: text
+  name: year
+  label: year
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: color
+  label: color
+- type: file
+  name: image
+  label: image
+- type: field_group_list
+  name: side_images
+  label: side_images
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: text
+    name: description
+    label: description
