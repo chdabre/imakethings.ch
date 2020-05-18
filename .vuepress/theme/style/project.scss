@@ -42,6 +42,7 @@
     margin-top: 1rem;
     img {
       width: 100%;
+      border-radius: 8px;
     }
 
     span {
@@ -63,6 +64,7 @@
 
   .mobile-image, img {
     width: 100%;
+    border-radius: 5px;
   }
 
   @media screen and (max-width: 980px) {
