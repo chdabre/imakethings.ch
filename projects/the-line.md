@@ -8,7 +8,7 @@ tags:
 - Docker
 - Node.js
 - Personal Project
-color: "#B33737"
+color: "#6F32D1"
 image: "/v1589816392/imakethings/hotline.png"
 side_images:
 - url: "/v1589832232/imakethings/53862C5B-4EB1-429A-8470-0EE88D62B5D5_1_201_a_qudj5j.jpg"
