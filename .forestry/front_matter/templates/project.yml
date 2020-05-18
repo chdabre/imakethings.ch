@@ -22,11 +22,12 @@ fields:
   label: Tags
   config:
     use_select: false
-- type: text
-  name: color
+- name: color
+  type: color
   label: Color
   config:
     required: true
+    color_format: Hex
 - type: file
   name: image
   label: Image
