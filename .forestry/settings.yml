@@ -13,9 +13,9 @@ sections:
   path: index.md
   label: Index
 upload_dir: imakethings
-public_path: https://res.cloudinary.com/dey9hupke/image/upload/c_scale,w_auto:100,dpr_auto
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_output_directory: ".vuepress/dist"
