@@ -17,16 +17,16 @@ fields:
   label: year
   config:
     required: true
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: Tags
-  config:
-    use_select: false
-- type: text
-  name: color
+- name: color
+  type: color
   label: Color
   config:
     required: true
+    color_format: Hex
 - type: file
   name: image
   label: Image
@@ -41,4 +41,8 @@ fields:
     label: Description
   label: Aside Images
 pages:
+- projects/connasseur.md
+- projects/jim-cbasp.md
 - projects/photo-booth.md
+- projects/the-line.md
+- projects/walter-live.md
