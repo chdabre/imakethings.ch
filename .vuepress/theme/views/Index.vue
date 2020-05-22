@@ -42,6 +42,7 @@
             :src="imageUrl(posts[current].frontmatter.image)"
             :key="current"
             :alt="`Project: ${posts[current].frontmatter.title}`"
+            @click="$router.push(posts[current].path)"
           >
         </transition>
       </section>
@@ -78,7 +79,7 @@
       posts() {
         return this.$site.pages
           .filter(page => page.path.endsWith(".html") && page.path.startsWith(this.$page.path))
-          .sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
+          .sort(((a, b) => a.path > b.path ? 1 : -1));
       }
     },
     methods: {

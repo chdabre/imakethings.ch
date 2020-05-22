@@ -41,8 +41,8 @@ fields:
     label: Description
   label: Aside Images
 pages:
-- projects/connasseur.md
-- projects/jim-cbasp.md
-- projects/photo-booth.md
-- projects/the-line.md
-- projects/walter-live.md
+- projects/04-connasseur.md
+- projects/01-jim-cbasp.md
+- projects/03-photo-booth.md
+- projects/02-the-line.md
+- projects/05-walter-live.md
