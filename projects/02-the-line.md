@@ -21,7 +21,7 @@ My best friends and I always stay in contact. But sometimes, a small personal gr
 
 THE LINE makes sending short, ephemeral personal messages fun again and is a great conversation starter for parties.
 
-The system consists of four modified rotary phones each painted in a different bright colors. The antique internals were replaced with modern single board computers and the numbers on the rotary dials were replaced by emojis.
+The system consists of four modified rotary phones each painted in a different bright color. The antique internals were replaced with modern single board computers and the numbers on the rotary dials were replaced by emojis.
 
 The phones connect to a central service called THE OPERATOR, which is a public Telegram bot. If a user wants to send a message to one or more of their friends, they simply send a voice memo to the Telegram bot. After choosing the recipients, the corresponding phones ring.
 
