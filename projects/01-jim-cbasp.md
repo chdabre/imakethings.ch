@@ -31,7 +31,7 @@ Our app allows a CBASP user to perform this process without the need of paper, s
 
 This way, they can have CBASP in their pocket wherever they are.
 
-We worked with the cross platform app framework called Flutter by google, which enabled us to quickly build apps for iOS and Android from a single codebase with native performance.
+We worked with a cross platform app framework called Flutter by google, which enabled us to quickly build apps for iOS and Android from a single codebase with native performance.
 
 I worked together with 6 teammates to make the app a reality. In this project I was mainly involved with UI/UX Design, UI Development with Flutter and UX Testing.
 
