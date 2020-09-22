@@ -23,7 +23,7 @@ Our platform allows users to upload general ideas or fully-fletched concepts and
 
 Bounce was built with scalability in mind. We chose Firebase as the backend for our application because it provides a wide toolset of real-time optimized APIs, like the Firestore database. The Platform lives in the web and is touch-optimized, making it easy to switch devices and to work from afar. For easy deployments and hosting, we make use of Firebase Hosting.
 
-Our proof of concept is finished and running live at [bounce-ideas-web-app.](https://bounce-ideas.web.app/ "bounce-ideas.web.app")
+Our proof of concept is finished and running live at [bounce-ideas.web.app.](https://bounce-ideas.web.app/ "bounce-ideas.web.app")
 
 We would love for our platform to help other creatives out and inspire new crafts as well as new connections. Ideas for expansion:
 
