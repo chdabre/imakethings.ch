@@ -5,7 +5,7 @@ tags:
 - Vue.js
 - Design
 title: bounce - share ideas
-index_title: a platform for creatives.
+index_title: a creative platform.
 year: "2020"
 color: "#DA8E7B"
 image: "/v1600762967/imakethings/Bildschirmfoto_2020-09-22_um_10.22.39_p5h34j.png"
