@@ -4,6 +4,14 @@ module.exports = {
     themeConfig: {
         cloudinary_base_url: "https://res.cloudinary.com/dey9hupke/image/upload"
     },
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-128427441-1' // UA-00000000-0
+            }
+        ]
+    ],
     head: [
         ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
         ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png"}],
