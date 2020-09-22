@@ -7,8 +7,8 @@ tags:
 title: bounce - share ideas
 index_title: a platform for creatives.
 year: "2020"
-color: "#D4D6BF"
-image: "/v1600762451/imakethings/original_dbr6wo.png"
+color: "#DA8E7B"
+image: "/v1600762967/imakethings/Bildschirmfoto_2020-09-22_um_10.22.39_p5h34j.png"
 side_images:
 - url: "/v1600762451/imakethings/original_dbr6wo.png"
   description: Quickly share what you're working on and get feedback from creative
@@ -17,7 +17,7 @@ side_images:
   description: Communicate ideas easily with the interactive canvas.
 
 ---
-During these last couple of months, we've had an especially hard time finding inspiration. Hand-in-hand with the pandemic came isolation and our processes, which rely heavily on iteration and feedback loops, suddenly stood still. We took our time at [HackZurich 2020](https://hackzurich.com/) to figure out a way to give creative professionals back their flow.
+During these last couple of months, we've had an especially hard time finding inspiration. Hand-in-hand with the pandemic came isolation and our processes, which rely heavily on iteration and feedback loops, suddenly stood still. We took our time at [HackZurich 2020](https://devpost.com/software/bounce-get-back-into-your-creative-flow) to figure out a way to give creative professionals back their flow.
 
 Our platform allows users to upload general ideas or fully-fletched concepts and matches them with another creative pro - either with a colleague inside their company or a stranger in Australia. Any creative stuck in a rut can log into our tool and request someone else's opinion on either a small portion of his work or an overall idea. After completing a short onboarding users immediately get the chance to share their work. Their session is then matched to another creative from the requested expertise. The canvas allows for notes, free drawing, creating visual aids by using shapes, and adding pictures. The sessions can be saved and reaccessed at any point in time. A painless and beautifully packaged tool to reinspire creatives to collaborate.
 
@@ -32,5 +32,7 @@ We would love for our platform to help other creatives out and inspire new craft
 * Chat feature (& Video calls?)
 
 Created by Dario Breitenstein / H. Franz / P.Hostettler
+
+[GitHub](https://github.com/fruendinne/bounce-app-hackzurich) / [Devpost](https://devpost.com/software/bounce-get-back-into-your-creative-flow)
 
 @[youtube](4Vtzff9XWJM)
