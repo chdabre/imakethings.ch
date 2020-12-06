@@ -41,10 +41,9 @@ fields:
     label: Description
   label: Aside Images
 pages:
-- projects/01-jim-cbasp.md
 - projects/02-the-line.md
 - projects/03-photo-booth.md
 - projects/04-connasseur.md
 - projects/05-walter-live.md
-- projects/07-bounce-share-ideas.md
 - projects/06-iot-bell.md
+- projects/07-bounce-share-ideas.md
