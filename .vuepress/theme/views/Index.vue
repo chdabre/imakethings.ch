@@ -1,5 +1,7 @@
 <template>
   <main class="container col">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVHR3JL"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="content-row row">
       <section class="title col">
         <h1 class="title__main"><Content /></h1>
